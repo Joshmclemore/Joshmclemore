@@ -13,5 +13,5 @@
 
 
 - 🔭 I’m currently working on leaning javascript, html, css, and react
-- 🌱 I’m currently learning with @bloomtecchinstituteoftechnology
+- 🌱 I’m currently learning with @bloomtechinstituteoftechnology
 
