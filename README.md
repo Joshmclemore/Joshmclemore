@@ -1,9 +1,9 @@
 ### Hi I'm Josh
 
 ##### Languages I use
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+![image](https://user-images.githubusercontent.com/93623925/152410902-ab4d996d-c662-4457-9bba-2a749c1c56f5.png)
+![image](https://user-images.githubusercontent.com/93623925/152410931-59eb56eb-3f43-435b-bbcd-f3302f13b1c0.png)
 
 ##### Some of the technologies I have worked with
 
