@@ -12,6 +12,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 
 
-- 🔭 I’m currently working on leaning javascript, html, css, and react
+- 🔭 I’m currently working on learning javascript, html, css, and react
 - 🌱 I’m currently learning with @bloomtechinstituteoftechnology
 
