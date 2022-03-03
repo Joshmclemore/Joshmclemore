@@ -4,6 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![image](https://user-images.githubusercontent.com/93623925/152410902-ab4d996d-c662-4457-9bba-2a749c1c56f5.png)
 ![image](https://user-images.githubusercontent.com/93623925/152410931-59eb56eb-3f43-435b-bbcd-f3302f13b1c0.png)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ##### Some of the technologies I have worked with
 
