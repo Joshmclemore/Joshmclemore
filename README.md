@@ -12,7 +12,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 
-
-- 🔭 I’m currently working on learning javascript, html, css, and react
-- 🌱 I’m currently learning with @bloomtechinstituteoftechnology
-
