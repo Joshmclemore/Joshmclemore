@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Anything interesting or challenging**
 
-- 👨‍💻 All of my projects are available at [[link will go here]]([link will go here])
+<!-- - 👨‍💻 All of my projects are available at [[link will go here]]([link will go here]) -->
 
 - 📫 How to reach me **josh_mclemore@yahoo.com**
 
